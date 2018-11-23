@@ -1,0 +1,56 @@
+div#div1{
+    background-color: lightgray;
+}
+img#img1{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin-left: 900px;
+}
+ul li {
+    display: inline;
+    font-weight: bolder; 
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    position: relative;
+    left: 463px;
+    padding: 3px;
+    padding-left: 70px;
+    padding-right: 70px; 
+}
+img#img2{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    margin-left: 1800px;
+}
+p#pimg2{
+    text-align: right;
+    color: blue;
+}
+img#img3{
+    position: relative;
+    margin-left: 600px;
+    width: 700px;
+    height: 500px;
+}
+p#pimg3{
+    text-align: center;
+    background-color: lightgray;
+}
+a.a1:hover{
+    background-color: lightgreen;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+p#p1{
+    text-align: center;
+    color: blue;
+}
+p#p2{
+    text-align: center;
+    color: blue;
+}
